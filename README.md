@@ -1,6 +1,8 @@
 # PG Timer applet for MATE
 
-## CPU applet countdown timer
+## Countdown timer
+
+(under construction)
 
  Install:
 
@@ -11,7 +13,7 @@ This installer will also kill the old instance .. useful for development
   Usage:
 
  * Goto panel menu, click on  "Add to Panel"
- * Click on: "PG CPU Load Display"
+ * Click on: "PG Timer "
 
  The python code can emit debug / status statements into syslog. To view them,
 open a new terminal and run:
@@ -32,9 +34,9 @@ Notables:
 
 sudo remove.sh should erase all traces of this project from the system.
 
-### Small picture of the CPU Load Indicator:
+### Small picture of the contdown timer:
 
-![Image](pgcpu.jpg)
+![Image](pgtimer.jpg)
 
 Peter Glen
 
