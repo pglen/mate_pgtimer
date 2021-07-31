@@ -1,0 +1,14 @@
+[Applet Factory]
+Id=pgtimerFactory
+InProcess=false
+Location=/usr/bin/env python3 /usr/lib/mate-applets/pgtimer.py
+Name=PG Timer Applet Factory
+Description=A MATE Python Applet Timer
+
+[pgtimer]
+Name=PG Countdown Timer
+Description=MATE Timer Applet
+Icon=mate
+MateComponentId=OAFIID:MATE_pgtimer
+
+

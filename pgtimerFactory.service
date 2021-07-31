@@ -1,0 +1,6 @@
+[D-BUS Service]
+Name=org.mate.panel.applet.pgtimerFactory
+Exec=/usr/bin/env python3 /usr/lib/mate-applets/pgtimer.py
+
+
+
